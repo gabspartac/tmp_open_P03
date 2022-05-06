@@ -13,6 +13,8 @@ conda install -c anaconda h5py
 
 conda install -c anaconda pillow
 
+conda install -c conda-forge pyfai
+
 
 --  h5 LZ4 plugin
   
@@ -30,3 +32,5 @@ pip install hdf5plugin
 ### pip
 
 pip install pathlib numpy fabio h5py hdf5plugin matplotlib Pillow
+
+pip install pyFAI
