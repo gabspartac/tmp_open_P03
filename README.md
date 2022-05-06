@@ -14,15 +14,15 @@ conda install -c anaconda h5py
 conda install -c anaconda pillow
 
 
-  h5 LZ4 plugin
+--  h5 LZ4 plugin
   
 conda install -c conda-forge hdf5plugin
 
-  or
+--  or
   
 conda install -c conda-forge/label/cf202003 hdf5plugin
 
-  if doesn't work then
+--  if doesn't work then
   
 pip install hdf5plugin
 
